@@ -1,0 +1,25 @@
+body{
+  background: url("../img/bg4.jpg") #c0c0c0;
+}
+.body-content{
+  background: linear-gradient(210deg,#000,#c0c0c0);
+  opacity:0.8;
+}
+.choix_rr{
+  color:#fff;
+}
+.typeR_sw{
+  display:inline-block;
+  margin-left:30px;
+}
+.res_eq{
+  color:#fff;
+  display: inline-block;
+  margin-left: 50px;
+}
+.res_eq  h3{
+  text-align: center;
+}
+.res_eq span{
+  font-weight: bold;
+}
