@@ -1,2 +1,2 @@
 # doojet
-projet -- creation de site web pour la reservation de scooter de sky 
+projet -- creation de site web pour une reservation de scooter de sky 
